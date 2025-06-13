@@ -60,6 +60,6 @@ We propose three key bets to future-proof NVIDIA:
 
 ## Authors
 
-Darren Chen, Mohamad Elaarag  
+Darren Chen
 Spring 2025 – Strategy Capstone Project  
 University of Washington
